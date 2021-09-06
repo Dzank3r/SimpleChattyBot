@@ -8,7 +8,7 @@ You’ll get to know the basic syntax of Python and write a simple program using
 ## This project is a part of the following tracks
 [Python Developer](https://hyperskill.org/tracks/2) [Python for Beginners](https://hyperskill.org/tracks/6)
 
-##What you’ll do and what you’ll learn
+## What you’ll do and what you’ll learn
 *  #### Stage 1/5: Chatty Bot welcomes you
    Teach your assistant to introduce itself in the console.
 *  #### Stage 2/5: Print your name
